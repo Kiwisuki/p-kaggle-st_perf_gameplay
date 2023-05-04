@@ -4,3 +4,4 @@ data/train.csv
 data/train_labels.csv
 *.csv
 *.png
+*.pkl
